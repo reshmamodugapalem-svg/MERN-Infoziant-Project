@@ -150,7 +150,7 @@ Other authentication and management routes are available in the backend source c
 
 - **Frontend:** https://mern-infoziant-project.vercel.app/
 - **Backend:** https://mern-infoziant-project-7.onrender.com
-- **GitHub Repository:** https://github.com/syadali025-commits/MERN-INFOZIANT-PROJECT
+- **GitHub Repository:** https://github.com/reshmamodugapalem-svg/MERN-Infoziant-Project
 
 ## 10. Run the Project Locally
 
@@ -162,8 +162,8 @@ Other authentication and management routes are available in the backend source c
 ### Clone the repository
 
 ```bash
-git clone https://github.com/syadali025-commits/MERN-INFOZIANT-PROJECT.git
-cd MERN-INFOZIANT-PROJECT
+git clone https://github.com/reshmamodugapalem-svg/MERN-Infoziant-Project.git
+cd MERN-Infoziant-Project
 ```
 
 ### Run the backend
